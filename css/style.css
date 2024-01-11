@@ -1,0 +1,79 @@
+.gradient-background {
+  background: #71C9CE;
+  padding-top: 5rem;
+  padding-top: 5rem;
+  margin-bottom: -20px;
+}
+
+h1{
+  color: #3F72AF;
+  font-family: 'Pacifico', cursive;
+  font-size: calc(2rem + 3.7vw);
+  line-height: 1.2;
+  top:70px;
+ 
+}
+.top-wave{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.pt-5 {
+  padding-top: 4rem!important;
+}
+h2{
+  color: #E3FDFD;
+  font-family: 'Noto Serif', serif;
+  font-size: 2.0rem;
+  
+}
+.About-ME{
+  background: #71C9CE;
+}
+
+.profile-img {
+  height: 200px;
+  border-radius: 50%;
+}
+h3{
+    margin-top: 20px; 
+    margin-bottom: 1rem; 
+    font-weight: 500;
+    line-height: 1.2;
+    color: #E3FDFD;
+    font-family: 'Noto Serif', serif;
+    font-size: 3.0rem;
+}
+.hey-me{
+  align-items: center;
+  text-align: justify;
+  color:#3F72AF;
+  font-family: 'Noto Serif', serif;
+  font-size: 1.25rem;
+}
+.skills{
+  background: #71C9CE;
+}
+#Contact-Me {
+  margin-top: -80px; 
+  
+}
+#Contact-Me h3 {
+  margin-bottom: 40px; 
+}
+
+#Contact-Me p {
+  color:#3F72AF;
+  text-align: justify;
+  font-family: 'Noto Serif', serif;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+  line-height: 2;
+}
+#footer p {
+  color: #E3FDFD;
+  font-family: 'Noto Serif', serif;
+  font-size: 0.85rem;
+ 
+  
+}
